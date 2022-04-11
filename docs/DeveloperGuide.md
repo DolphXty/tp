@@ -78,8 +78,18 @@ Step 2: ListNurseListCommand will call on the toString function in nurseList to 
 
 ![](ListNurse.png)
 
+### IHospital use case diagram
+Shows use case interactions.
+
+![](IHospitalUseCase.png)
+
+### Logical Component diagram
+Shows the different logical component in the system.
+![](LogicalComponent.png)
+
 ### Storage Component
 API: `PatientStorage.java` `DoctorStorage.java` `AppointmentStorage.java` `NurseStorage.java` `WardStorage.java`
+
 
 
 
